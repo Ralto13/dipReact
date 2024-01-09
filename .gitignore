@@ -1,0 +1,8 @@
+.vscode/
+dist
+node_modules/
+.babelrc
+.env
+.eslintrc
+.prettierrc
+*.md
